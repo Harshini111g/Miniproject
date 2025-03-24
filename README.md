@@ -1,3 +1,9 @@
+Me and my friends worked on this project to develop a chatbot with a relevant background using spline for importing 3D elements,keeping our focus on React.
+Chatbot was developed using Llama 3.1 api key.
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
